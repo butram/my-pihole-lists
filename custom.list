@@ -7,6 +7,6 @@
 192.168.192.252 tvheadend.35smb.net
 192.168.5.200 icecast.35smb.net
 192.168.5.200 nginx.35smb.net
-192.168.5.156 linkace.35smb.net
-192.168.5.156 home.35smb.net
 192.168.5.200 piaware.35smb.net
+192.168.5.200 home.35smb.net
+192.168.5.200 linkace.35smb.net
